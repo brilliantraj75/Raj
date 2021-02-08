@@ -10,7 +10,7 @@
 </script>
   <script src="script.js"></script> 
 
-<title>Welcome To Movie Ticket Reservation</title>
+<title>Welcome To Movie Ticket Booking</title>
 
 <style type="text/css">
 /* unvisited link */
@@ -198,7 +198,7 @@ $query=mysql_query("SELECT * FROM `upcoming4`");
 Movie Ticket Reservation</big></span><br>
 <span style="color: white;"></span>
 
-<span style="color: white;"><big>&nbsp;<span style="color: white;">Copyright © 2</span></big></span><big style="color: white;">013-2014 by: Rosefield Uton<br>
+<span style="color: white;"><big>&nbsp;<span style="color: white;">Copyright Â© 2</span></big></span><big style="color: white;">013-2014 by: Rosefield Uton<br>
 All Rights Reserved.</big>
 </div>
 </center>
